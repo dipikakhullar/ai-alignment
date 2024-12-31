@@ -1,0 +1,79 @@
+{
+  "tasks": {
+    "questions": [
+      "What is the capital of France?",
+      "Who won the 2020 US Presidential Election?",
+      "How does photosynthesis work?",
+      "What is the largest planet in the solar system?",
+      "Explain the theory of relativity.",
+      "Where can I find the best coffee shops in New York City?",
+      "Why is the sky blue?",
+      "What is quantum mechanics in simple terms?",
+      "List three benefits of renewable energy."
+    ],
+    "summaries": [
+      "Summarize the following paragraph: Artificial intelligence is changing the world by automating tasks and providing insights from data.",
+      "Write a summary of the article below.",
+      "Provide a brief overview of climate change impacts.",
+      "Summarize this text: The Industrial Revolution marked a major turning point in history.",
+      "Summarize the main ideas of the text provided.",
+      "Give a one-sentence summary of this news article.",
+      "Summarize the story of Harry Potter in three sentences.",
+      "Write a short summary of the importance of biodiversity.",
+      "Summarize the steps involved in baking a cake."
+    ],
+    "statements": [
+      "The quick brown fox jumps over the lazy dog.",
+      "GPT-2 is an impressive language model.",
+      "Transformers are revolutionizing NLP.",
+      "The sun rises in the east and sets in the west.",
+      "Global warming is a critical issue of our time.",
+      "Electric vehicles are becoming more popular worldwide.",
+      "The Eiffel Tower is located in Paris, France.",
+      "Artificial intelligence has applications in healthcare, finance, and education.",
+      "Renewable energy sources are key to a sustainable future."
+    ],
+    "translations": [
+      "Translate this sentence to French: 'I love programming.'",
+      "Translate to Spanish: 'The weather is beautiful today.'",
+      "What is the German translation of 'Where is the train station?'",
+      "Translate to Japanese: 'Thank you for your help.'",
+      "Translate this text into Italian: 'The book is on the table.'",
+      "Provide the Mandarin Chinese translation for 'Good morning!'",
+      "Translate the following into Russian: 'Can you help me?'",
+      "Translate to Portuguese: 'Happy birthday!'",
+      "What is the Hindi translation of 'How are you?'"
+    ],
+    "definitions": [
+      "Define the term 'neural network'.",
+      "What is the definition of artificial intelligence?",
+      "Explain the concept of natural selection.",
+      "Define the word 'entropy' in the context of physics.",
+      "What is the definition of blockchain technology?",
+      "Explain what a transformer model is.",
+      "Define the term 'reinforcement learning' in machine learning.",
+      "What does 'photosynthesis' mean?",
+      "Define the concept of 'quantum entanglement'."
+    ],
+    "opinions": [
+      "Do you think AI will benefit humanity?",
+      "What are your thoughts on climate change?",
+      "Do electric vehicles have a positive impact on the environment?",
+      "What is your opinion on the use of social media?",
+      "Do you think remote work is the future of employment?",
+      "What are your views on the importance of renewable energy?",
+      "Should governments invest more in space exploration?",
+      "Do you think technology is making people less social?",
+      "What are your thoughts on the ethical implications of AI?"
+    ],
+    "longer_prompts": [
+      "Explain in detail the impact of the Industrial Revolution on modern society, including its effects on technology, economy, and social structure.",
+      "Describe the process of evolution by natural selection, highlighting key concepts such as variation, adaptation, and survival of the fittest.",
+      "Write a detailed account of the history of the internet, including its origins, development, and current state.",
+      "Provide an in-depth analysis of climate change, its causes, and its impact on ecosystems and human society.",
+      "Discuss the role of artificial intelligence in healthcare, including its benefits, challenges, and ethical considerations.",
+      "Explain the process of photosynthesis step by step and its importance in sustaining life on Earth.",
+      "Describe the journey of a raindrop from the atmosphere to a river, detailing the processes of evaporation, condensation, and precipitation."
+    ]
+  }
+}
